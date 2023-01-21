@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 **ACL2023**
+=======
+**ACL 2023**
+>>>>>>> fde167c (my changes)
 
 data_sample.csv file contains a sample of 1000 annotated instances from the dataset. The full dataset and code will be released on acceptance.
 
@@ -8,4 +12,9 @@ data_sample.csv file contains a sample of 1000 annotated instances from the data
   - cause0, cause1 and cause2: *Annotations for at most three causes for each post.*
   - class
     - 0 denotes *Non-distress*
+<<<<<<< HEAD
     - 1 denotes *Distress*
+=======
+    - 1 denotes *Distress*
+>>>>>>> fde167c (my changes)
+# ACL23
