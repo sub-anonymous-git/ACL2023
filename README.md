@@ -1,7 +1,7 @@
 
 **ACL 2023**
 
-data_sample.csv file contains a sample of 1000 annotated instances from the dataset. The full dataset and code will be released on acceptance.
+ACL_sample.csv file contains a sample of 1000 annotated instances from the dataset. The full dataset and code will be released on acceptance.
 
 - Column descriptions:
   - image_url: *link to the image in the social media post*
